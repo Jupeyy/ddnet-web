@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Problems with Intel processors"
+permalink: /news/intel-driver-problems/
+tag: current
+---
+
+There were a lot of reports about for bugs and crashes with intel processors under Windows lately.
+
+It might have been created by a windows update, which also updates the intel GPU's driver.
+
+A driver update seemed to help with this situation (downloaded the latest driver for intel and update it with help of [this](//https://forums.lenovo.com/t5/Lenovo-Yoga-Series-Notebooks/Update-to-Latest-Intel-Graphics-Driver/m-p/4457633?page=1#4457786))
+
+We hope that intel can solve their issue quickly, until then you can just try to follow the advice above.

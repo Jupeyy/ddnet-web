@@ -1,0 +1,12 @@
+before merging:
+- check money status
+- check donator list
+- what is download workflow
+- privacy youtube & twitch videos
+- url encoding in ddnet's style
+- remove public/releases
+- map releases map preview
+- forum & wiki new tab
+- releases need debounced changes in filtering
+- staff page is up to date
+- releases: make items centered(the container), click on tile on a map card => select it in filter

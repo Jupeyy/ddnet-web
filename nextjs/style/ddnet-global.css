@@ -1,0 +1,8 @@
+/*
+* Generally try to use mui's style overrides
+*/
+
+/* images in the news containers are too big */
+.markdownContainer img {
+	max-width: 100%;
+}
